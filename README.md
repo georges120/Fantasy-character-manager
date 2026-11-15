@@ -2,8 +2,6 @@
 
 **Python • Tkinter • Object-oriented programming • CSV storage**
 
-A university project by **George Singh**, Computer Science & AI student at Teesside University London.
-
 I developed this application to practise creating and managing fantasy characters. It combines a text menu with a form for entering character details.
 
 [Features](#features) · [Getting started](#getting-started) · [Development](#development-and-testing) · [What I learned](#what-i-learned)
